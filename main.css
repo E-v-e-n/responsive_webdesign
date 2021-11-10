@@ -55,3 +55,32 @@ table {
 .post {
 	background-color: rgba(255, 0, 0, .3);
 }
+
+/* Betűtípus kiválasztásánál erre a két kulcsszóra keress rá Google-ben! Ad neked betűtípus párosításokat amik jól néznek ki együtt. */
+
+body {
+	font-family: Alegreya Sans, Arial;
+	font-size: 18px;
+	line-height: 32px;
+	color: #333;
+}
+
+h1, h2 {
+	font-family: Literata, "Times New Roman";
+}
+
+h1 {
+	font-size: 28.8px;
+}
+
+h2 {
+	font-size: 25.6px;
+	color: #e5127d;
+}
+
+.main-header p {
+	font-size: 18px;
+	letter-spacing: 2px;
+	color: #8c8e9b;
+}
+
