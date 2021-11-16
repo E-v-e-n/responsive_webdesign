@@ -44,8 +44,16 @@ table {
 	border-spacing: 0;
 }
 
+* {
+	box-sizing: border-box;
+}
+
+/* ==== LAYOUT STYLES ==== */
+
 .main-header {
 	background-color: rgba(255, 248, 53, .3);
+  text-align: center;
+  padding: 1.25rem;
 }
 
 .primary-content {
